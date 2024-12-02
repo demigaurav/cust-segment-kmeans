@@ -22,7 +22,7 @@ RFM (Recency, Frequency, Monetary) analysis is a proven marketing technique used
 
 This analysis helps identify high-value customers who are more likely to respond positively to targeted marketing efforts. Each of these metrics has been shown to be a reliable predictor of customer engagement and purchasing behavior.  
 
-Conducting RFM analysis offers significant advantages for eCommerce platforms, including:  
+Conducting RFM analysis offers significant advantages, including:  
 - **Personalization:** Creating tailored offers based on customer preferences.  
 - **Improved Conversion Rates:** Relevant marketing leads to higher engagement and purchase likelihood.  
 - **Better Unit Economics:** Optimized marketing spend ensures resources are used effectively.  
